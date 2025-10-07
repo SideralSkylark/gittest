@@ -6,5 +6,7 @@ public class Main {
             if (i % 2 == 0) continue;
             System.out.println(i);
         }
+
+        String newstuff = "some shiny new stuff";
     }
 }
