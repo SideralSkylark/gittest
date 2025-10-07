@@ -8,5 +8,6 @@ public class Main {
         }
 
         String newstuff = "some shiny new stuff";
+        System.out.println(newstuff);
     }
 }
